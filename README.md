@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Enzo, a Frontend Developer.
+- 👋 Hi, I’m Enzo, a FullStack Developer.
 - 👀 I’m interested in working with your team to bring quality to your Projects...
 - 💞️ I’m looking to collaborate on any available projects.
 - 📫 How to reach me Twitter, LinkedIn, Whatsapp..
